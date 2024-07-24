@@ -8,10 +8,10 @@
 <img src="https://img.upanh.tv/2024/07/24/QuickSort_Result.png">
 
 ## 3. Tìm kiếm nhị phân 
-### Đệ Quy
+### <code> Đệ Quy </code>
 ### Kết Quả
 <img src="https://img.upanh.tv/2024/07/24/TKNP-DQ_Result.png">
 
-### Không đệ quy
+### <code> Không đệ quy </code>
 ### Kết Quả
 <img src="https://img.upanh.tv/2024/07/24/TKNP-KDQ_Result.png">
